@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://emmanoel1.github.io/](https://emmanoel1.github.io/)
 
-- 💬 Ask me about **react, javascript.**
+- 💬 Ask me about **react and javascript.**
 
 - 📫 How to reach me **emmanoelporto@gmail.com**
 
