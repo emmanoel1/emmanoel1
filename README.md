@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanoel1&" alt="emmanoel1" /></p>
 
-ReadMe stats by **@anuraghazra**
+ReadMe stats by [https://github.com/rahuldkjain/github-profile-readme-generator](@anuraghazra)
