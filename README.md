@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanoel</h1>
 <h3 align="center">A passionate front-end developer from Brazil</h3>
-
+<p align="center">
 - 🌱 I’m currently learning **front-end, back-end and computer science.**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/emmanoel1?tab=repositories)
@@ -10,7 +10,7 @@
 - 📫 How to reach me **emmanoelporto@gmail.com**
 
 - ⚡ Fun fact **I love playing games with my friends and family.**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/emmanoelporto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanoelporto" height="30" width="40" /></a>
