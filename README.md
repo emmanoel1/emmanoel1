@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **front-end, back-end and computer science.**
 
-- 👨‍💻 All of my projects are available at [https://emmanoel1.github.io/](https://emmanoel1.github.io/)
+- 👨‍💻 All of my projects are available at [https://emmanoel1.github.io/](https://github.com/emmanoel1?tab=repositories)
 
 - 💬 Ask me about **react and javascript.**
 
