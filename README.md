@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanoel</h1>
 <h3 align="center">A passionate front-end developer from Brazil</h3>
-<p align="center">
+<h4 align="center">
 
 - 🌱 I’m currently learning **front-end, back-end and computer science.**<br>
 
