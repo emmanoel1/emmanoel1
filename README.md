@@ -2,15 +2,15 @@
 <h3 align="center">A passionate front-end developer from Brazil</h3>
 <h4 align="center">
 
-- 🌱 I’m currently learning **front-end, back-end and computer science.**<br>
+🌱 I’m currently learning **front-end, back-end and computer science.**<br>
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/emmanoel1?tab=repositories)<br>
+👨‍💻 All of my projects are available at [Here](https://github.com/emmanoel1?tab=repositories)<br>
 
-- 💬 Ask me about **react and javascript.**<br>
+💬 Ask me about **react and javascript.**<br>
 
-- 📫 How to reach me **emmanoelporto@gmail.com**<br>
+📫 How to reach me **emmanoelporto@gmail.com**<br>
 
-- ⚡ Fun fact **I love playing games with my friends and family.**<br>
+⚡ Fun fact **I love playing games with my friends and family.**<br>
 
 </p>
 <h3 align="center">Connect with me:</h3>
