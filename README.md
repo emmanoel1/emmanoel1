@@ -2,9 +2,7 @@
 <h3 align="center">❤️ A passionate front-end developer from Brazil 🇧🇷</h3>
 <h4 align="center">
 
-🌱 I’m currently learning **front-end, back-end and computer science.** 💻<br>
-
-👨‍💻 All of my projects are available at [Here](https://github.com/emmanoel1?tab=repositories)<br>
+🌱 I’m currently learning **back-end.** 💻<br>
 
 💬 Ask me about **react and javascript.**  ⚛️<br>
 
