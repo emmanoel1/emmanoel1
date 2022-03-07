@@ -12,7 +12,6 @@
 
 </h4>
 <h3 align="center">Connect with me:</h3>
-<div align="center" class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="emmanoelporto" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/emmanoelporto?trk=profile-badge">Emmanoel Da Silva Passos Porto</a></div>
 <p align="center">
 <a href="https://linkedin.com/in/emmanoelporto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanoelporto" height="30" width="40" /></a>
 </p>
