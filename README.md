@@ -11,7 +11,7 @@
 ⚡ Fun fact **I love playing games with my friends and family.** 🎮<br>
 
 </h4>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with my linkedin:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/emmanoelporto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanoelporto" height="30" width="40" /></a>
 </p>
