@@ -30,4 +30,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanoel1&show_icons=true&locale=en&layout=compact&theme=react" alt="emmanoel1" width="400" />
 </p>
 
- ![Snake animation](https://github.com/emmanoel1/)
+![snake gif](https://github.com/emmanoel1/emmanoel1/blob/output/github-contribution-grid-snake.gif)
