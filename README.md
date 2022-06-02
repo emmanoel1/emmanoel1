@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanoel</h1>
-<h3 align="center">❤️ A passionate Front-End developer from Brazil 🇧🇷</h3>
+<h3 align="center">❤️ A passionate Front-End developer from Brasil 🇧🇷</h3>
 <h4 align="center">
 
 🌱 I’m currently learning **back-end.** 💻<br>
