@@ -2,7 +2,7 @@
 
 <h4 align="center">
 
-   ❤️ A passionate Front-End web developer from Brasil 🇧🇷 
+   Front-End web developer from Brasil 🇧🇷 
 
    🌱 I’m currently learning full-stack at [Trybe](https://www.betrybe.com/). 💻
     
