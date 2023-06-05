@@ -48,10 +48,6 @@
     <img alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
   </a>
   
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer">
-    <img alt="bulma" width="40" height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" />
-  </a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
    </a>
@@ -76,20 +72,12 @@
     <img alt="mocha" width="40" height="40" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"/>
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <a href="https://bulma.io/" target="_blank" rel="noreferrer">
+    <img alt="bulma" width="40" height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" />
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img alt="mongodb" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img alt="bash" width="40" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -98,14 +86,6 @@
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  </a>
-
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img alt="heroku" width="40" height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/>
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img alt="linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   </a>
 
 </div>
